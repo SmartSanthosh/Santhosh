@@ -1,0 +1,70 @@
+body{
+	background:linear-gradient(rgb(0,0,50,0.5),rgb(0,0,50,0.5)),url(a.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.net
+{
+	background-color: Tomato;
+	text-align:center;
+}
+.net ul
+{
+	display: inline-flex;
+	list-style: none;
+	color:white;
+	text-align: right;
+}
+.net ul
+{
+	display: inline-flex;
+	list-style: none;
+	color:white;
+	text-align: right;
+}
+.net ul li
+{
+	width: 120px;
+	margin: 10px;
+	padding: 20px;
+}
+.net ul li a
+{
+	text-decoration:none;
+	color:#fff;
+}
+.net ul li:hover{
+	background-color:  black;
+	border-radius: 3px;
+}
+.net .fa{
+	margin-right: 8px;
+}
+
+
+.login-box{
+	max-width: 700px;
+	float: none;
+	margin:150px auto;
+}
+.login-left{
+	background:rgb(211,211,211,0.5);
+	padding:30px;
+}
+.login-right{
+	background: #fff;
+	padding:30px;
+}
+.form-control{
+	background-color :transparent  !important;
+}
+a{
+	color:#fff !important;
+	margin-top: -200px !important;
+}
+h1{
+	color:#fff !important;
+	margin-top: 200px !important;
+	text-align: center;
+	text-transform: uppercase;
+}

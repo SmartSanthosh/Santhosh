@@ -1,0 +1,117 @@
+*{
+	padding:0;
+	margin: 0;
+
+}
+
+body
+{
+	font-size: 19px;
+	background-image: url();
+	background-size: cover;
+	background-position: center;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.san1
+{
+	background-color:Tomato;
+	text-align:center;
+}
+.san1 ul
+{
+	display: inline-flex;
+	list-style: none;
+	color:white;
+	text-align: right;
+}
+.san1 ul li
+{
+	width: 120px;
+	margin: 10px;
+	padding: 20px;
+}
+.san1 ul li a
+{
+	text-decoration:none;
+	color:#fff;
+}
+.san1 ul li:hover{
+	background-color:  black;
+	border-radius: 3px;
+}
+.san1 .fa{
+	margin-right: 8px;
+}
+tr.s{
+	background-color: Blue;
+}
+
+table{
+	width: 50px;
+	margin:30px auto;
+	border-collapse:collapse;
+	text-align: left;
+	background-color:AntiqueWhite;
+}
+tr{
+	border-bottom: 1px solid #cbcbcb;
+}
+
+th,td{
+	border: none;
+	height: 30px;
+	padding: 2px;
+}
+tr:hover{
+	background: #F5F5F5
+}
+
+form{
+	width: 45%;
+	margin: 5px auto;
+	text-align:      left;
+	padding: 20px;
+	border: 1px solid #bbbbbb;
+	border-radius: 5px;
+
+}
+.input-group{
+	margin: 10px 0px 10px 0px;
+}
+.input-group{
+	display: black;
+	text-align: left;
+	margin:5px;
+}
+.input-group input{
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border:1px solid gray;
+}
+
+.btn{
+	padding:10px;
+	font-size: 15px;
+	color:white;
+	background: #5F9EA0;
+	border:none;
+	border-radius: 5px;
+}
+.edit_btn{
+	text-decoration:none;
+	padding:2px 5px;
+	background:#2E8857;
+	color: white;
+	border-radius: 3px;
+}
+.del_btn{
+	text-decoration:none;
+	padding:2px 5px;
+	color:white;
+	border-radius: 3px;
+	background: #800000;
+}
