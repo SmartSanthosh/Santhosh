@@ -24,11 +24,11 @@ if(!isset($_SESSION['username'])){
 <div class="net">
 <ul>
 	<li class="active"><a href="second.php">Home</a></li>
-	<li class="active"><a href="first.php"></i>Store</a></li>
-	<li><a href="fourth.php"></i>Customer</a></li>
-	<li><a href="five.php"></i>Bill Detail</a></li>
+	<li class="active"><a href="store.php"></i>Store</a></li>
+	<li><a href="customer.php"></i>Customer</a></li>
+	<li><a href="billItem.php"></i>Bill Detail</a></li>
 	<li><a href="logout.php"></i>
-LOGOUT</a></li>
+Logout</a></li>
 </ul>
 </div>
 	<h1>WELCOME TO BRAHMA STORE</h1>

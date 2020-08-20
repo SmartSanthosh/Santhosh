@@ -1,11 +1,11 @@
 body{
-	background:linear-gradient(rgb(0,0,50,0.5),rgb(0,0,50,0.5)),url(a.jpg);
+	background:linear-gradient(rgb(0,0,50,0.5),rgb(0,0,50,0.5)),url(b.jpeg);
 	background-size: cover;
 	background-position: center;
 }
 .net
 {
-	background-color: Tomato;
+	background-color: DarkBlue;
 	text-align:center;
 }
 .net ul

@@ -5,7 +5,7 @@ header('location:index.php');
 
 $con= mysqli_connect('localhost','root','');
 
-mysqli_select_db($con,'userregister');
+mysqli_select_db($con,'brahmastore');
 
 $name=$_POST['user'];
 $pass=$_POST['password'];
